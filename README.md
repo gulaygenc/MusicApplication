@@ -1,5 +1,5 @@
-# prolab2.3
-Müzik Dosyam
+# Müzik Dosyam
+Prolab 2.3
 
 
 ![1](https://user-images.githubusercontent.com/61146415/147929316-1832c2c3-7b7f-4685-80d3-0df91022d725.png)
